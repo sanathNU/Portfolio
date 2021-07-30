@@ -1,1 +1,1 @@
-# SanathUpadhyaya.github.io
+Boring STuff For creating my own website using HTML and CSS
