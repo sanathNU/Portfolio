@@ -1,5 +1,33 @@
-body {
-    margin: 0;
-    
+body{
+    font-family:Helvetica;
+}
+.header {
+padding: 10px; /* some padding */
+text-align: center; /* center the text */
+background: #52006a; 
+color: white;
+}
+.navbar{
+overflow:hidden;
+background-color: grey;
+}
+.navbar a{
+float: right;
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+h1 {
     text-align: center;
+  }
+.content{
+    border-style:inherit;
+    padding: 15px;
+  }
+.footer{
+padding: 20x;
+text-align: center;
+background: #ddd;
 }
