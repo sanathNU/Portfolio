@@ -25,6 +25,7 @@ h1 {
 .content{
     border-style:inherit;
     padding: 15px;
+    text-alignment: center;
   }
 .footer{
 padding: 20x;
