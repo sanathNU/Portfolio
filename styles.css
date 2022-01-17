@@ -33,28 +33,41 @@ text-align: center;
 padding: 14px 16px;
 text-decoration: none;
 }
+a:hover {
+  background-color: rgb(53, 132, 197);
+}
 h1 {
     text-align: center;
   }
 .content{
+
     border-style:inherit;
-    padding: 20px;
-    text-align: center;
-    background: var(--dark-gray);
+    padding: 10px;
+    text-align: center;  
     border-radius: 25px;
     max-width: 2500px;
     margin: 1em;
     background-color: rgba(209, 202, 202, 0.5);
   }
+.content-inside{
+  border-style:inherit;
+  padding: 10px;
+  text-align: center;
+  position:relative ;
+  border-radius: 25px;
+  max-width: 1500px;
+  margin: 1em;
+  background-color: rgba(238, 232, 232, 0.577);
+}
 
 .footer{
-padding: 20x;
 text-align: center;
-border-top: 5px;
+padding-block: 2px;
+/* border-top: 5px;  */
 background: rgba(0, 0, 0, 0.4);
 border-radius: 25px;
 max-width: 2500px;
-margin: 1em;
+/* margin: 1em; */
 color: white; 
 }
 .link {
