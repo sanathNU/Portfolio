@@ -1,6 +1,6 @@
 Link for Website:
 ----------------------
-https://sanathnu.github.io/PersonalWeb/
+https://sanathnu.github.io/Portfolio/
 
 Summary of what this is:
 Boring STuff For creating my own website using HTML and CSS
